@@ -43,5 +43,5 @@ Before setting up the project, ensure the following are installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ReturnOrdersManagementSystem.git
+   https://github.com/KcMelek/Return-Orders-Management-System.git
    cd ReturnOrdersManagementSystem

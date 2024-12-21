@@ -9,10 +9,26 @@ The **Return Orders Management System** is a web-based application designed for 
 ## Key Features
 
 - **User Authentication**: Secure login and registration system for users.
+<p align="center">
+  <img src="assets/img/login.png" width="300" height="400" alt="Login Page">
+  <img src="assets/img/register.png" width="300" height="400" alt="Register Page">
+</p>
+
+
 - **Order History**: View a list of past orders.
+![Order Page](assets/img/orders.png)
+
 - **Return Management**: Initiate and track returns for purchased products.
+![Return Request](assets/img/return%20request.png)
 - **Return Tracking**: Track the current status of your return requests, including approval, processing, and completed stages.
+- ![Return Page](assets/img/returns.png)
 - **Refund Processing**: Process and manage refunds for returned items.
+- <p align="center">
+  <img src="assets/img/refund.png" width="45%" alt="Login Page">
+  <img src="assets/img/exchange.png" width="45%" alt="Register Page">
+</p>
+- ![Success Page](assets/img/refund%20success.png)
+
 - **Session Management**: User session handling to maintain logged-in status.
   
 ---

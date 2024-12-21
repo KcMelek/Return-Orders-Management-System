@@ -43,5 +43,48 @@ Before setting up the project, ensure the following are installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/ReturnOrdersManagementSystem.git
-   cd ReturnOrdersManagementSystem
+   https://github.com/KcMelek/Return-Orders-Management-System.git
+   
+2. **Configure RetoursArticlesRMI**:
+   - Run the project as a Java Application, Make sure it is running locally on `localhost:1099`.
+
+3. **Compile and Run RetoursArticles**:
+   - Use Eclipse to build and run the project on server Tomcat.
+   - Access the application through `http://localhost:8085/RetourArticles`.
+
+## Usage
+
+1. **Access the Application**:
+   - Once the application is running on Tomcat, open your web browser and navigate to `http://localhost:8085/RetourArticles`.
+   - The login page will appear, where you can either log in with an existing account or register a new one.
+
+2. **Registering a New User**:
+   - On the login page, click on the "Register" link to create a new account.
+   - Provide the required details such as email, password, and confirm your password to complete the registration.
+
+3. **Login to the Application**:
+   - Enter your email and password to log in.
+   - Upon successful login, you will be redirected to the orders page, where you can see your previous orders.
+
+4. **Managing Orders**:
+   - In the orders page, you can view all your past orders.
+   - If you need to initiate a return, you can select an order and initiate a return for specific products. You can also provide a return reason.
+  
+5. **Managing Your Return Requests**:
+   - Track and manage the status of your return requests.
+   - View details about each return, including the return status and the associated products.
+
+6. **View Refund Status**:
+   - After processing a return, the application will show the refund status (if applicable). Refunds are automatically processed after returns are accepted.
+
+## Contributing
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.

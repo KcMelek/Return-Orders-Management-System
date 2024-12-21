@@ -23,11 +23,12 @@ The **Return Orders Management System** is a web-based application designed for 
 - **Return Tracking**: Track the current status of your return requests, including approval, processing, and completed stages.
 - ![Return Page](assets/img/returns.png)
 - **Refund Processing**: Process and manage refunds for returned items.
-- <p align="center">
+<p align="center">
   <img src="assets/img/refund.png" width="45%" alt="Login Page">
   <img src="assets/img/exchange.png" width="45%" alt="Register Page">
 </p>
-- ![Success Page](assets/img/refund%20success.png)
+
+![Success Page](assets/img/refund%20success.png)
 
 - **Session Management**: User session handling to maintain logged-in status.
   
